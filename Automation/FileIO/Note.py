@@ -1,0 +1,7 @@
+# open()
+# close()
+# read()
+# write()
+# remove()
+# tell()
+# seek()
