@@ -1,0 +1,46 @@
+--------------------------------------------------
+------Marvellous Platform Surveillance System-----
+Log created at : Sat Feb  7 20:32:03 2026
+--------------------------------------------------
+
+------------System Report--------------
+CPU Usage : 3.1 %
+--------------------------------------------------
+RAM Usage : 39.5 %
+--------------------------------------------------
+
+ Disk Usage Report
+--------------------------------------------------
+/ --> 30.0 % used
+/snap/core22/2216 --> 100.0 % used
+/snap/bare/5 --> 100.0 % used
+/snap/core22/2292 --> 100.0 % used
+/snap/core24/1267 --> 100.0 % used
+/snap/firefox/7720 --> 100.0 % used
+/snap/firmware-updater/167 --> 100.0 % used
+/snap/firmware-updater/210 --> 100.0 % used
+/snap/gnome-42-2204/226 --> 100.0 % used
+/snap/gnome-42-2204/247 --> 100.0 % used
+/snap/gnome-46-2404/145 --> 100.0 % used
+/snap/gnome-46-2404/153 --> 100.0 % used
+/snap/gtk-common-themes/1535 --> 100.0 % used
+/snap/mesa-2404/1165 --> 100.0 % used
+/snap/snap-store/1270 --> 100.0 % used
+/snap/snapd/25577 --> 100.0 % used
+/snap/snapd-desktop-integration/315 --> 100.0 % used
+/snap/snapd/25935 --> 100.0 % used
+/snap/snapd-desktop-integration/343 --> 100.0 % used
+/snap/zoom-client/258 --> 100.0 % used
+/snap/zoom-client/275 --> 100.0 % used
+/boot/efi --> 28.7 % used
+/snap/core24/1349 --> 100.0 % used
+/snap/firefox/7766 --> 100.0 % used
+/media/rushikeshn/Rushikesh --> 50.3 % used
+--------------------------------------------------
+
+--------------------------------------------------
+ Network usage Report
+Sent : 64.39 MB
+Recv : 295.89 MB
+--------------------------------------------------
+---------------End of log File--------------------------------------------------------------------
