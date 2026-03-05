@@ -1,0 +1,11 @@
+Machine learning Steps
+1. Load data
+2. Analyse the data (EDA)
+3. Visualise the data
+4. Identify feature and label
+5.split into training and testing
+6.Build the model
+7.Train the model
+8.Evalute the model (Test model)
+9 Visulization of result.
+10. Performance
