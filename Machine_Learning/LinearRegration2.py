@@ -35,7 +35,9 @@ def MarvellousPredictor():
 
     C = mean_y - (m*mean_x)
 
-    print("Y Intercept of line i.e C : ",C)
+    print("Y Intercept of line i.e C : ",C) # 2.4
+
+    
 
 
 

@@ -49,6 +49,9 @@ def MarvellousPredictor():
     plt.legend()
     plt.show()
 
+    # Calculate YP
+    # Calculate R **2
+
 
 
 
